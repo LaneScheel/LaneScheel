@@ -15,6 +15,7 @@ My name is @LaneScheel, and I'm an aspiring Gravitational Wave Astrophysicist! ð
 
 My previous research includes: 
 - Simulation of thermal effects in advanced laser interferometers using the FINESSE software
+- Integrating thermal effects into a Linear Canonical Transform (LCT) based modeling framework
 - Modeling of gravitational waves emmited by eccentric binary white dwarf systems
 - Calculating Signal-to-Noise ratios for these ^^^ detections in the Laser Interferomter Space Antennae (LISA)
 - Modeling of close envelope binary star systems in with the PHOEBE software
