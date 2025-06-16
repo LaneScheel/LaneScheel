@@ -5,7 +5,7 @@ My name is @LaneScheel, and I'm an aspiring Gravitational Wave Astrophysicist! �
 
 -----
 
-- I currently attend Valparaiso University, where I'm pursuing a __B.S. of Physics and Mathematics w/ Honors__ 📖
+- I recently graduated from Valparaiso University, where I earned a __B.S. of Physics and Mathematics w/ Honors__ 📖
   
 - My latest research is in efficient Binary Black Hole parameter estimation using LIGO data and ML techniques 👾
 
@@ -23,6 +23,6 @@ My previous research includes:
 
 -----
 
-I am seeking admission to a PhD program in Gravitational Physics for the Fall of 2025. 🎓
+I will be pursuing my graduate degrees in Physics at the Australian National University (ANU) this Fall. 🎓
 
 Don't hesitate to reach out with any questions! 🚀
